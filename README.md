@@ -1,2 +1,2 @@
 # ML-Repo
-Machine Learning repo for my IT class
+This is a Machine Learning Assessment for my IT class. The main
