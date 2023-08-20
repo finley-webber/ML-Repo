@@ -13,11 +13,14 @@ This repo is for a Machine Learning Assessment I am doing at Canberra Grammar Sc
 
 ## Installation
 
-1. Step-by-step installation process.
-2. `code snippet if necessary`
-3. Further steps.
+1. Find/Create the folder you would like the project in
+2. Open Terminal and type navigate your way to the folder
+3. Type `git clone https://github.com/finley-webber/ML-Repo.git`
 
 ## Usage
 
-How to use this project once it's up and running.
+Some options for using this repo are:
 
+- Using the models
+- Altering the models
+- Checking out the document for more insight on Machine Learning in general
